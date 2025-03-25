@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
+<style type="text/css"><![CDATA[
+  @font-face {
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://fonts.gstatic.com/s/mavenpro/v30/7Au_p_4ybSPtSOJm5Qy3KXos.woff2') format('woff2');
+  }
+  text {
+    font-family: 'Maven Pro', sans-serif;
+  }
+]]></style>
 <svg
    width="4.3994093cm"
    height="5.0800004cm"
